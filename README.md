@@ -17,5 +17,4 @@
 #
 
 <p align="center">My stats:</p>
-[![wakatime](https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg)](https://wakatime.com/@128306ef-c159-4e33-94b6-786fec8f81b1)
-
+<a href="https://wakatime.com/@128306ef-c159-4e33-94b6-786fec8f81b1"><img src="https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg" alt="Total time coded since Apr 8 2023" /></a>
