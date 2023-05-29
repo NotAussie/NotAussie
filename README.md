@@ -2,10 +2,10 @@
 
 Hey, I'm Ethan, I'm an autistic programmer, I live in South Australia.
 
-Hello,+I’m+Ethan.;I’m+an+autistic+programmer;from+South+Australia;+I’m+currently+learning+Java+and+have+some+experience+with+Python.
+Hello,+I’m+Ethan.;I’m+an+autistic+programmer.;I'm+from+South+Australia;+I’m+currently+learning+Java;I+have+have+some+experience+with+Python.
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I’m+Ethan.;I’m+an+autistic+programmer;from+South+Australia;+I’m+currently+learning+Java+and+have+some+experience+with+Python.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I’m+Ethan.;I’m+an+autistic+programmer.;I'm+from+South+Australia;+I’m+currently+learning+Java;I+have+have+some+experience+with+Python.;&center=true&width=500&height=50"></a>
 </p>
 
 <!-- Profile view counter -->
