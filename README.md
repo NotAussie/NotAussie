@@ -18,7 +18,7 @@
 <p align="center"><p1>About myself:</p1></p>
 <p align="center"><p1>📚 I'm currently learning Python, and Java.</p1></p>
 <p align="center"><p1>⚙️ I like working on </p1><a href="https://Guilded.gg"><p1>Guilded</p1></a><p1> bots.</p1>
-<p align="center"><p1>⚒️ I work at Gilboard and Cardboard.</p1></p>
+<p align="center"><p1>⚒️ I work at </p1><a href="https://gilboard.xyz"><p1>Gilboard</p1></a><p1> and </p1><a href="https://gilboard.xyz"><p1>Cardboard</p1></a>.</p1></p>
 
 #
 
