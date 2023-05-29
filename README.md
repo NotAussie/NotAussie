@@ -1,6 +1,6 @@
 <!-- Typing text -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+NotAussie.;I+like+to+code.;I+love+using+VSCode.;I+have+two+cats.;I'm+learning+java.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+NotAussie.;I+learning+python+and+a+little+bit+of+java.;I+love+using+VSCode.;I+have+two+cats.;I'm+learning+java.;&center=true&width=500&height=50"></a>
 </p>
 
 <!-- Profile view counter -->
