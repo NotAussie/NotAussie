@@ -11,8 +11,9 @@
 #
 
 <!-- About myself -->
-<p align="center"><p1>- 👋 Hey, I'm Ethan, I'm an autistic programmer, I live in Adelaide, South Australia.</p1></p>
-<p align="center"><p1>- ⚒️ I work at Gilboard and Cardboard.</p1></p>
+<p align="center">
+  <p1>- 👋 Hey, I'm Ethan, I'm an autistic programmer, I live in Adelaide, South Australia.</p1>
+  <p1>- ⚒️ I work at Gilboard and Cardboard.</p1></p>
 
 #
 
