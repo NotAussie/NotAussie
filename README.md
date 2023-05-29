@@ -4,6 +4,7 @@
 </p>
 
 <!-- Profile view counter -->
+<p align="center">How many people have viewed my profile:</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{notaussie}/count.svg"></p>
 
 # About Myself
