@@ -7,11 +7,10 @@
 <p align="center">How many people have viewed my profile:</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{notaussie}/count.svg"></p>
 
-<p align="center">
-# About Myself
-- 👋 Hey, I'm Ethan, I'm an autistic programmer, I live in Adelaide, South Australia.
-- ⚒️ I work at Gilboard and Cardboard.
-</p>
+<!-- About myself -->
+<p align="center">- 👋 Hey, I'm Ethan, I'm an autistic programmer, I live in Adelaide, South Australia.</p>
+<p align="center">- ⚒️ I work at Gilboard and Cardboard.</p>
+
 ### My stats
 
 [![wakatime](https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg)](https://wakatime.com/@128306ef-c159-4e33-94b6-786fec8f81b1)
