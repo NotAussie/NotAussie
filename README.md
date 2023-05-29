@@ -2,4 +2,4 @@
 - 👋 Hey, I'm Ethan, I'm an autistic programmer, I live in Adelaide, South Australia.
 
 
-<figure><embed src="https://wakatime.com/share/@NotAussie/c5c59d04-f9fa-428a-986f-8a53c9d7c5e1.svg"></embed></figure>
+[![wakatime](https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg)](https://wakatime.com/@128306ef-c159-4e33-94b6-786fec8f81b1)
