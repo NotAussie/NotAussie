@@ -7,7 +7,8 @@
 <p align="center">How many people have viewed my profile:</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{notaussie}/count.svg"></p>
 
-<p align="center"># About Myself
+<p align="center">
+# About Myself
 - 👋 Hey, I'm Ethan, I'm an autistic programmer, I live in Adelaide, South Australia.
 - ⚒️ I work at Gilboard and Cardboard.
 </p>
