@@ -23,4 +23,11 @@
 #
 
 <p align="center">My stats:</p>
-<p align="center"><a href="https://wakatime.com/@128306ef-c159-4e33-94b6-786fec8f81b1"><img src="https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg" alt="Total time coded since Apr 8 2023" /></a></p>
+<p align="center">
+  <img src="https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg" alt="Total time coded since Apr 8 2023" />
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NotAussie_?style=social">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/notaussie?style=social">
+  <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Aussie_Okay?label=U%2FAussie_Okay&style=social">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCx_9DmWFLM5Uzb7qMQhmH-Q?style=social">
+  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCx_9DmWFLM5Uzb7qMQhmH-Q?style=social">
+</p>
