@@ -16,6 +16,5 @@
 
 ### My stats
 
-<p align="center">[![wakatime](https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg)](https://wakatime.com/@128306ef-c159-4e33-94b6-786fec8f81b1)
-[![wakatime](https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg)](https://wakatime.com/@128306ef-c159-4e33-94b6-786fec8f81b1)</p>
+[![wakatime](https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg)](https://wakatime.com/@128306ef-c159-4e33-94b6-786fec8f81b1)
 
