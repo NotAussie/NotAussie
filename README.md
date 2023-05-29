@@ -11,7 +11,7 @@
 [![wakatime](https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg)](https://wakatime.com/@128306ef-c159-4e33-94b6-786fec8f81b1)
 
 
-#
+<p align="center"><img src="https://profile-counter.glitch.me/{notaussie}/count.svg"></p>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NotAussie&show_icons=true)
 
