@@ -19,6 +19,8 @@
 <p align="center"><p1>📚 I'm currently learning Python, and Java.</p1></p>
 <p align="center"><p1>⚙️ I like working on </p1><a href="https://Guilded.gg"><p1>Guilded</p1></a><p1> bots.</p1>
 <p align="center"><p1>⚒️ I work at </p1><a href="https://gilboard.xyz"><p1>Gilboard</p1></a><p1> and </p1><a href="https://cardboard.ink"><p1>Cardboard</p1></a>.</p1></p>
+<p align="center"><p1>👑 I am the maker of </p1><a href="https://github.com/cardboard-ink/aussiebot"><p1>AussieBot</p1></a><p1>.</p>
+
 
 #
 
