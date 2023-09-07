@@ -19,10 +19,24 @@
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0073BA?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-22D68A?style=flat-square&logo=pycharm&logoColor=white" />
   <img alt="Replit" src="https://img.shields.io/badge/-Replit-EF600A?style=flat-square&logo=replit&logoColor=white" />
+  <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-273E6B?style=flat-square&logo=fedora&logoColor=white" />
 </p>
 
-<!-- Projects I've made -->
-<h1>📂 - Things I've created</h1>
+<!-- Contact me -->
+<br>
+<h1>🗨️ - Contact me</h1>
+<h3>All the platforms you can contact me on!</h3>
+<p>
+  <a href="https://discord.com/users/1084139494934065184"><img alt="Discord-contact" src="https://img.shields.io/badge/-@NotAussie-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://guilded.gg/u/notaussie"><img alt="Guilded-contact" src="https://img.shields.io/badge/-@NotAussie-F5C400?style=flat-square&logo=guilded&logoColor=black" /></a>
+  <a href="https://notaussie.is-a.dev/connect/rovolt"><img alt="Revolt-contact" src="https://img.shields.io/badge/-@NotAussie-FF4554?style=flat-square&logo=revoltdotchat&logoColor=white" /></a>
+  <a href="https://twitter.com/_notaussie"><img alt="Twitter-contact" src="https://img.shields.io/badge/-@NotAussie-1B96EB?style=flat-square&logo=twitter&logoColor=white" /></a>
+</p>
+
+<!-- Projects I've made/worked on -->
+<br>
+<h1>📂 - Things I've worked on</h1>
+<h3>A list of projects I've made or worked on.</h3>
 <table>
   <thead align="center">
     <tr border: none;>
