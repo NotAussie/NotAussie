@@ -3,14 +3,15 @@
 <!-- Page title -->
 <h1>💖 • NotAussie</h1>
 <!-- Page subtitle -->
-<h3>Hey there, welcome to my GitHub profile! 👋</h3>
+<h3>Hey there, I'm NotAussie, I'm a developer from the land down under, I specialise in coding with Python. I'm also a huge fan of Bee and PuppyCat!</h3>
 
 <!-- Programming languages -->
 <br>
 <h1>📚 • Things I code with</h1>
+<h3>A small list of the software and services I use while creating applications.</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Font Awesome" src="https://img.shields.io/badge/-Font+Awesome-538DD7?style=flat-square&logo=fontawesome&logoColor=white" />
+  <img alt="Font Awesome" src="https://img.shields.io/badge/-Font%20Awesome-538DD7?style=flat-square&logo=fontawesome&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3470A2?style=flat-square&logo=python&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
