@@ -8,7 +8,7 @@
 <!-- Programming languages -->
 <br>
 <h1>📚 • Things I code with</h1>
-<h3>A small list of the software and services I use while creating applications.</h3>
+<h3>A list of the software and services I use while creating applications.</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Font Awesome" src="https://img.shields.io/badge/-Font%20Awesome-538DD7?style=flat-square&logo=fontawesome&logoColor=white" />
