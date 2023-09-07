@@ -1,13 +1,13 @@
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/NotAussie/NotAussie/main/photos/Banner-rounded.png">
 <!-- Page title -->
-<h1>💖 • NotAussie</h1>
+<h1>👋 - Welcome</h1>
 <!-- Page subtitle -->
 <h3>Hey there, I'm NotAussie, I'm a developer from the land down under, I specialise in coding with Python. I'm also a huge fan of Bee and PuppyCat!</h3>
 
-<!-- Programming languages -->
+<!-- Software/Serivces I use -->
 <br>
-<h1>📚 • Things I code with</h1>
+<h1>📚 - Things I code with</h1>
 <h3>A list of the software and services I use while creating applications.</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -19,5 +19,27 @@
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0073BA?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-22D68A?style=flat-square&logo=pycharm&logoColor=white" />
   <img alt="Replit" src="https://img.shields.io/badge/-Replit-EF600A?style=flat-square&logo=replit&logoColor=white" />
-  
 </p>
+
+<!-- Projects I've made -->
+<h1>📂 - Things I've created</h1>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+<!--     <tr>
+      <td><a href="https://github.com/notaussie/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/notaussie/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/notaussie/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/notaussie/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/notaussie/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr> -->
+  </tbody>
+</table>
