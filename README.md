@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/NotAussie/NotAussie/main/photos/Banner-rounded.png">
+<img alt="Image from Bee and PuppyCat EP1" src="https://raw.githubusercontent.com/NotAussie/NotAussie/main/photos/Banner-rounded.png">
 <!-- Page title -->
 <h1>👋 - Welcome</h1>
 <!-- Page subtitle -->
