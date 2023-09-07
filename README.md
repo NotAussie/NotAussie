@@ -19,6 +19,7 @@
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-22D68A?style=flat-square&logo=pycharm&logoColor=white" />
   <img alt="Replit" src="https://img.shields.io/badge/-Replit-EF600A?style=flat-square&logo=replit&logoColor=white" />
   <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-273E6B?style=flat-square&logo=fedora&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white" />
 </p>
 
 <!-- Contact me -->
@@ -53,6 +54,13 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/cardboard-ink/cardboard?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/cardboard-ink/cardboard?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cardboard-ink/cardboard?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+        <tr>
+      <td><a href="https://github.com/notaussie/bloxxer/"><b>Bloxxer</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/notaussie/bloxxer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/notaussie/bloxxer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/notaussie/bloxxer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/notaussie/bloxxer?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
