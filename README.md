@@ -1,9 +1,7 @@
-<!-- Banner -->
-<img alt="Image from Bee and PuppyCat EP1" src="https://raw.githubusercontent.com/NotAussie/NotAussie/main/photos/Banner-rounded.png">
 <!-- Page title -->
 <h1>👋 - Welcome</h1>
 <!-- Page subtitle -->
-<h3>Hey there, I'm NotAussie, I'm a developer from the land down under, I specialise in coding with Python. I'm also a huge fan of Bee and PuppyCat!</h3>
+<h3>Hey there, I'm NotAussie, I'm a developer from the land down under, I specialise in coding with Python.</h3>
 
 <!-- Software/Serivces I use -->
 <br>
