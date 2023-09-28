@@ -69,11 +69,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cardboard-ink/cardboard?style=flat-square&labelColor=343b41"/></td>
     </tr>
         <tr>
-      <td><a href="https://github.com/notaussie/bloxxer/"><b>Bloxxer</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/notaussie/bloxxer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/notaussie/bloxxer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/notaussie/bloxxer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/notaussie/bloxxer?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/notaussie/jsprint/"><b>JSPrint</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/notaussie/jsprint?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/notaussie/jsprint?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/notaussie/jsprint?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/notaussie/jsprint?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
