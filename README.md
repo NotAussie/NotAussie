@@ -27,7 +27,7 @@
 <p>
   <!-- Use flat-square whenever possible -->
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/notaussie?style=flat-square" />
-  <img alt="GitHub User's followers" src="https://img.shields.io/github/followers/notaussie?style=flat-square" />
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/notaussie?style=flat-square&logo=github&logoColor=white&label=Followers">
   <img alt="Wakatime" src="https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg?style=flat-square" />
 </p>
 
