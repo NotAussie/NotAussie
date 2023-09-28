@@ -20,6 +20,22 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white" />
 </p>
 
+<!-- My statistics -->
+<br>
+<h1>📊 - My statistics</h1>
+<h3>My statistics across all of the platforms I use.</h3>
+<p>
+  <!-- Use for-the-badge whenever possible -->
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/notaussie?style=for-the-badge" />
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/notaussie?style=for-the-badge" />
+  <img alt="GitHub User's commits" src="https://img.shields.io/github/commit-activity/m/notaussie?style=for-the-badge" />
+  <img alt="GitHub User's issues" src="https://img.shields.io/github/issues/notaussie?style=for-the-badge" />
+  <img alt="GitHub User's pull requests" src="https://img.shields.io/github/issues-pr/notaussie?style=for-the-badge" />
+  <img alt="GitHub User's followers" src="https://img.shields.io/github/followers/notaussie?style=for-the-badge" />
+  <img alt="GitHub User's forks" src="https://img.shields.io/github/forks/notaussie?style=for-the-badge" />
+  <img alt="Wakatime" src="https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg?style=for-the-badge" />
+
+
 <!-- Contact me -->
 <br>
 <h1>🗨️ - Contact me</h1>
