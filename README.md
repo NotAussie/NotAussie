@@ -29,7 +29,7 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/notaussie?style=for-the-badge" />
   <img alt="GitHub User's followers" src="https://img.shields.io/github/followers/notaussie?style=for-the-badge" />
   <img alt="Wakatime" src="https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg?style=for-the-badge" />
-
+</p>
 
 <!-- Contact me -->
 <br>
