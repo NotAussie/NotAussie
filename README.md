@@ -29,7 +29,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/notaussie?label=Followers&style=flat-square&logo=github&logoColor=white" />
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/notaussie?style=flat-square&logo=github&logoColor=white&label=Stars" />
   <img alt="Mastodon followers" src="https://img.shields.io/mastodon/follow/111142707738142835?style=flat-square&logo=mastodon&logoColor=white&label=Followers&labelColor=%23555555&color=%23007EC6" />
-  <img alt="YouTube channel views" src="https://img.shields.io/youtube/channel/views/UCx_9DmWFLM5Uzb7qMQhmH-Q?style=flat-square&logo=youtube&label=Views&color=%23007EC6" />
+  <img alt="YouTube channel subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCx_9DmWFLM5Uzb7qMQhmH-Q?style=flat-square&logo=youtube&label=Subscribers&color=%23007EC6" />
   <img alt="Wakatime time" src="https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg?style=flat-square&label=Wakatime" />
 
 </p>
