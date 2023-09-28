@@ -15,10 +15,10 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0073BA?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-22D68A?style=flat-square&logo=pycharm&logoColor=white" />
+  <img alt="VS" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
   <img alt="Replit" src="https://img.shields.io/badge/-Replit-EF600A?style=flat-square&logo=replit&logoColor=white" />
   <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-273E6B?style=flat-square&logo=fedora&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="VS" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
 </p>
 
 <!-- My statistics -->
