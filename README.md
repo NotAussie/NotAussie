@@ -18,7 +18,7 @@
   <img alt="Replit" src="https://img.shields.io/badge/-Replit-EF600A?style=flat-square&logo=replit&logoColor=white" />
   <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-273E6B?style=flat-square&logo=fedora&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="Quart" src="https://img.shields.io/badge/-Quart-black?style=flat-square&logo=quart&logoColor=white" />
+  <img alt="VS" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
 </p>
 
 <!-- My statistics -->
