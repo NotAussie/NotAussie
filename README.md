@@ -21,6 +21,7 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white" />
   <img alt="PyCord" src="https://img.shields.io/badge/-PyCord-2F3136?style=flat-square&logo=discord&logoColor=white" />
   <img alt="Guilded.py" src="https://img.shields.io/badge/-Guilded.py-FFC400?style=flat-square&logo=guilded&logoColor=black" />
+  <img alt="CoPilot" src="https://img.shields.io/badge/-CoPilot-black?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 <!-- My statistics -->
