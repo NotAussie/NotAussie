@@ -1,5 +1,5 @@
-# Hey there! 👋
-Hey, I'm **NotAussie**! - I'm a full-stack junior developer, UI designer, and high school student from South Australia. 🌟
+<h1>Hey there! 👋</h1>
+Hey, I'm <b>NotAussie</b>! - I'm a full-stack junior developer, UI designer, and high school student from South Australia. 🌟
 <details>
   <summary>
     <a href="https://github.com/notaussie/bottlestatus"><img src="https://activitysystem.notaussie.repl.co/icon" width="48px" /></a>
@@ -8,17 +8,17 @@ Hey, I'm **NotAussie**! - I'm a full-stack junior developer, UI designer, and hi
   <ol>
     <li>
       <p>
-        <img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Offline.svg" width="25px"> = Offline
+        <a href=""><img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Offline.svg" width="25px"></a> = Offline
       </p>
     </li>
     <li>
       <p>
-        <img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Away.svg" width="25px"> = Away
+        <a href=""><img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Away.svg" width="25px"></a> = Away
       </p>
     </li>
     <li>
       <p>
-        <img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Online.svg" width="25px"> = Online
+        <a href=""><img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Online.svg" width="25px"></a> = Online
       </p>
     </li>
     Note: Do CTRL+F5 to refresh the status. (Due to GitHub CND cache)
@@ -27,12 +27,12 @@ Hey, I'm **NotAussie**! - I'm a full-stack junior developer, UI designer, and hi
 
 
 <details>
-  <summary><h3>Software I use 📚</h3></summary>
+  <summary><h2>Software I use 📚</h2></summary>
   <img src="https://skills.thijs.gg/icons?i=python,javascript,typescript,svelte,html,css,tailwind,mongodb,markdown&perline=8&theme=dark" />
 </details>
 
 <details>
-  <summary><h3>Platforms I'm on! 📱</h3></summary>
+  <summary><h2>Platforms I'm on! 📱</h2></summary>
   <p>
   <a href="https://discord.com/users/1084139494934065184"><img alt="Discord" src="https://skills.thijs.gg/icons?i=discord&theme=dark" /></a>
   <a href="https://twitter.com/_NotAussie"><img alt="Twitter" src="https://skills.thijs.gg/icons?i=twitter&theme=dark" /></a>
@@ -42,7 +42,7 @@ Hey, I'm **NotAussie**! - I'm a full-stack junior developer, UI designer, and hi
 </details>
 
 <details>
-  <summary><h3>My statistics 📊</h3></summary>
+  <summary><h2>My statistics 📊</h2></summary>
   <p>
     <a href="https://wakatime.com/@128306ef-c159-4e33-94b6-786fec8f81b1"><img src="https://wakatime.com/badge/user/128306ef-c159-4e33-94b6-786fec8f81b1.svg?style=for-the-badge" alt="Total time coded since Apr 8 2023" /></a>
   </p>
