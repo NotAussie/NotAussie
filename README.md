@@ -1,19 +1,33 @@
 # Hey there! 👋
 Hey, I'm **NotAussie**! - I'm a full-stack junior developer, UI designer, and high school student from South Australia. 🌟
 <details>
-  <summary><img src="https://activitysystem.notaussie.repl.co/icon" width="45px" /></summary>
+  <summary>
+    <a href="https://github.com/notaussie/bottlestatus"><img src="https://activitysystem.notaussie.repl.co/icon" width="48px" /></a>
+  </summary>
   Activity meanings:
   <ol>
-    <li>Green house: Online and active</li>
-    <li>Yellow house: Away and or inactive</li>
-    <li>Red door: Offline</li>
+    <li>
+      <p>
+        <img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Offline.svg" width="25px"> = Offline
+      </p>
+    </li>
+    <li>
+      <p>
+        <img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Away.svg" width="25px"> = Away
+      </p>
+    </li>
+    <li>
+      <p>
+        <img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Online.svg" width="25px"> = Online
+      </p>
+    </li>
   </ol> 
 </details>
 
 
 <details>
   <summary><h3>Software I use 📚</h3></summary>
-  <img src="https://skills.thijs.gg/icons?i=python,javascript,typescript,svelte,html,css,tailwind,mongodb&perline=8&theme=dark" />
+  <img src="https://skills.thijs.gg/icons?i=python,javascript,typescript,svelte,html,css,tailwind,mongodb,markdown&perline=8&theme=dark" />
 </details>
 
 <details>
