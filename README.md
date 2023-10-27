@@ -21,6 +21,7 @@ Hey, I'm **NotAussie**! - I'm a full-stack junior developer, UI designer, and hi
         <img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Online.svg" width="25px"> = Online
       </p>
     </li>
+    Note: Do CTRL+F5 to refresh the status. (Due to GitHub CND cache)
   </ol> 
 </details>
 
