@@ -61,7 +61,7 @@ Australia. 🌟
         src="https://skills.thijs.gg/icons?i=twitter&theme=dark" /></a>
     <a href="https://mastodon.social/@notaussie"><img alt="Mastodon"
         src="https://skills.thijs.gg/icons?i=mastodon&theme=dark" /></a>
-    <a href="https://guilded.gg/u/NotAussie"><img alt="Guilded"
+    <a href="https://guilded.gg/u/NotAussie"><img alt="Guilded" width="48px"
         src="/photos/Guilded.svg" /></a>
         <a href="https://guilded.gg/u/NotAussie"><img alt="Guilded"
           src="https://skills.thijs.gg/icons?i=email&theme=dark" /></a>
