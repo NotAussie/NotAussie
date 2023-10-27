@@ -1,6 +1,6 @@
 <h1>Hey there! 👋</h1>
-<h2>Hey, I'm <b>NotAussie</b>! - I'm a full-stack junior developer, UI designer, and high school student from South
-Australia. 🌟</h2>
+<p>Hey, I'm <b>NotAussie</b>! - I'm a full-stack junior developer, UI designer, and high school student from South
+Australia. 🌟</p>
 
 
 <!-- Status Icon -->
