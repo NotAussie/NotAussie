@@ -1,44 +1,8 @@
 <h1>Hey there! 👋</h1>
 <p>Hey, I'm <b>NotAussie</b>! - I'm a full-stack junior developer, UI designer, and high school student from South
 Australia. 🌟</p>
-
-
-<!-- Status Icon -->
-<div align="center">
-  <br>
-
-  <!-- Status Image -->
-  <a href="https://github.com/notaussie/bottlestatus"><img src="https://activitysystem.notaussie.repl.co/icon"
-      width="48px" /></a>
-
-  <!-- Info Section -->
-  <details>
-    <summary>
-      Info
-    </summary>
-    Activity meanings:
-    <ul>
-      <p>
-        <a href=""><img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Offline.svg"
-            width="25px"></a> = Offline
-      </p>
-      <p>
-        <a href=""><img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Away.svg"
-            width="25px"></a> = Away
-      </p>
-      <p>
-        <a href=""><img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Online.svg"
-            width="25px"></a> = Online
-      </p>
-      <p>
-        <a href=""><img src="https://raw.githubusercontent.com/NotAussie/BottleStatus/main/_icons/Coding.svg"
-            width="25px"></a> = Coding
-      </p>
-      Note: Do CTRL+F5 to refresh the status. (Due to GitHub CDN cache)
-    </ul>
-  </details>
-</div>
-<!----+---->
+<br>
+<p>Profile picture by www.pixiv.net/en/users/8880031.</p>
 
 <br>
 
