@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./photos/banner.png">
+  <img src="banner github.png">
 </div>
 
 <h1>Hiya there! 👋</h1>
