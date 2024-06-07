@@ -3,7 +3,7 @@
 </div>
 
 <h1>Hiya there! 👋</h1>
-Hiya, I'm <b>NotAussie</b>! I'm a junior programmer and aviation enthusiast, I'm the main developer of <a href="https://www.guilded.gg/b/bed0ffea-d282-4539-ad92-32b7dd3fcda0?r=mj7xOkBA"><b>Channels</b></a> and lead developer of <a href="https://github.com/notaussie/birdfeed"><b>BirdFeed</b></a>.
+Hiya, I'm <b>NotAussie</b>! I'm a junior programmer and aviation enthusiast, I'm currently apart of the <a href="https://github.com/RattleRoar"><b>@RattleRoar</b></a> and <a href="https://github.com/EcoNuker"><b>@EcoNuker</b></a> team.
 
 <h1>Experience 👨‍💻</h1>
 <ul>
@@ -13,10 +13,11 @@ Hiya, I'm <b>NotAussie</b>! I'm a junior programmer and aviation enthusiast, I'm
 </ul>
 
 <h1>Socials 🔗</h1>
-<ul>
-  <li><a href="https://www.notaussie.lol"><b>NotAussie.lol</b></a></li>
-  <li><a href="https://guilded.com/u/notaussie?r=mj7xOkBA"><b>Guilded</b></a></li>
-  <li><a href="https://bsky.app/profile/notaussie.lol"><b>BlueSky</b></a></li>
-  <li><a href="https://discord.com/users/1248159065633460331"><b>Discord</b></a></li>
-  <li>Revolt → <code>NotAussie#6373</code></li>
-</ul>
+
+| Name | Tag/Link |
+|---|---|
+| BlueSky | [@notaussie.lol](https://bsky.app/profile/notaussie.lol) |
+| Twitter | [@DeveloperAussie](https://x.com/DeveloperAussie) |
+| Guilded | [@NotAussie](https://guilded.gg/u/notaussie) |
+| Discord | [@notaussie.lol](https://discord.com/users/1248159065633460331) |
+| Revolt | NotAussie#6373 |
