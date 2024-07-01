@@ -27,5 +27,5 @@ Hiya, I'm <b>NotAussie</b>! I'm a junior programmer and aviation enthusiast, I'm
 <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26113%26project%3D%26in%3D0&query=%24.message&style=for-the-badge&logo=clock&label=CodeTime&labelColor=%2324292F&color=%234493F8">
 <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.wakatime.com%2Fapi%2Fv1%2Fusers%2Fnotaussie%2Fstats&query=%24.data.human_readable_total&style=for-the-badge&logo=wakatime&label=WakaTime&labelColor=%2324292F&color=%234493F8">
 </p>
-<img src="https://now-play.vercel.app/api/generate?uid=f21dbde9-d0b5-43b0-970a-428bf2ef0dc6&theme=dark" />
+<a href="https://open.spotify.com/user/31yfvviqqenyk7bvaroelsc3s4oi"><img src="https://now-play.vercel.app/api/generate?uid=f21dbde9-d0b5-43b0-970a-428bf2ef0dc6&theme=dark" /></a>
 
