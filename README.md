@@ -32,3 +32,6 @@ Hiya, I'm <b>NotAussie</b>! I'm a junior programmer and aviation enthusiast, I'm
 
 <h1>Spotify 🎶</h1>
 <a href="https://open.spotify.com/user/31yfvviqqenyk7bvaroelsc3s4oi"><img src="https://now-play.vercel.app/api/generate?uid=f21dbde9-d0b5-43b0-970a-428bf2ef0dc6&theme=dark"></a>
+
+<h1>View counter👀</h1>
+<img src="https://count.getloli.com/get/@notaussie_github?theme=asoul">
