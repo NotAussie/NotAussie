@@ -35,3 +35,6 @@ Hiya, I'm <b>NotAussie</b>! I'm a junior programmer and aviation enthusiast, I'm
 
 <h1>View counter👀</h1>
 <img src="https://count.getloli.com/get/@notaussie_github_profile?theme=asoul">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
