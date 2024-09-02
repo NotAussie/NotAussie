@@ -37,4 +37,13 @@ Hiya, I'm <b>NotAussie</b>! I'm a junior programmer and aviation enthusiast, I'm
 <img src="https://count.getloli.com/get/@notaussie_github_profile?theme=asoul">
 
 <!--START_SECTION:waka-->
+
+```txt
+Python     8 hrs 59 mins   ███████████████████████▓░   94.11 %
+Bash       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+JSON       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+```
+
 <!--END_SECTION:waka-->
