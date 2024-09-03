@@ -46,15 +46,15 @@ Twitter   @developeraussie
 Things I know how to use! ^-^
 
 ```txt
-Python
- • Discord.py
- • FastAPI
- • Flask/Quart
- • Guilded.py
- • Webhooked.py
+Python 
+ ⨽ Discord.py
+ ⨽ FastAPI
+ ⨽ Flask/Quart
+ ⨽ Guilded.py
+ ⨽ Webhooked.py
 
 JavaScript (& TypeScript)
- • SvelteKit
+ ⨽ SvelteKit
 ```
 
 <details>
