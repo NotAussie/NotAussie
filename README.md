@@ -51,29 +51,10 @@ Python
  ⨽ FastAPI
  ⨽ Flask/Quart
  ⨽ Guilded.py
- ⨽ Webhooked.py
+ ⨽ Revolt.py
 
 JavaScript (& TypeScript)
  ⨽ SvelteKit
 ```
 
-<details>
 
-<summary>PGP/GPG key 🔐</summary>
-
-```txt
------BEGIN PGP PUBLIC KEY BLOCK-----
-mDMEZtaHJRYJKwYBBAHaRw8BAQdAj62a9RKYQDLMjfEa694WRD9QWfylWNqn7bwa
-f6kePmm0Hk5vdEF1c3NpZSA8bm90YXVzc2llQGR1Y2suY29tPoiZBBMWCgBBFiEE
-UIkEsaW/qHvzMrGhF72kMDY+0R8FAmbWhyUCGwMFCQlmAYAFCwkIBwICIgIGFQoJ
-CAsCBBYCAwECHgcCF4AACgkQF72kMDY+0R+taAEA9GJPxwcvhyhzDCqTuMWtYxsw
-3Sq8LLQKXwKO2fy6jeAA/2wdgHkUxybX5zb02s1EB1OVFhokTKfuX9BUfIiw76cF
-uDgEZtaHJRIKKwYBBAGXVQEFAQEHQKQ/pncqMGryd4s/VnBxJzMJaa9SXu+JTRe6
-RMrhzo59AwEIB4h+BBgWCgAmFiEEUIkEsaW/qHvzMrGhF72kMDY+0R8FAmbWhyUC
-GwwFCQlmAYAACgkQF72kMDY+0R8QHgD/R1gMJyI0LHdqbKIMctm+PfTLaZQ/sICL
-4IYXr10ypJ8A/3EDtR6brITIfc4z9TI1ExrExY+gAt9kT9asdCrxUUwB
-=OuWd
------END PGP PUBLIC KEY BLOCK-----
-```
-
-</details>
