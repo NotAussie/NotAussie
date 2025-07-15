@@ -6,10 +6,13 @@
 ## Introduction
 Hey there! Let me introduce myself, my name is _NotAussie_ and I go by _she/her_, _they/them_ or any _non-neopronoun_, I'm an autistic high school student from Adelaide. I love photography _(especially in relation to transport)_, I'm a frequent [Pokémon GO](https://pokemongo.com/) player and in my free time, I build open-source software!
 
-## Want to get in contact?
+## Contact me
 
-I'm avaible on the following platforms:
-> Tip! Click the platform name to view my profile!
+Need to contact me? I'm available on the following platforms, just remember to be nice!
+
+>[!CAUTION]
+> I _am not_ looking for _job offers_, if you attempt to recruit me I will call you a donkey.
+
 - [Bsky.social](https://bsky.app/profile/did:plc:lbqr5qcbc6jqcxlluekls6gf)
 - [Discord.gg](https://discord.com/users/1248159065633460331)
 - Revolt.chat _(`notaussie#6373`)_
