@@ -18,3 +18,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: -#
+          SHOW_MASKED_TIME: true
+          COMMIT_MESSAGE: "chore: refresh dynamic content"
