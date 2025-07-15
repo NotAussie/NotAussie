@@ -1,21 +1,15 @@
-```txt
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/
-```
- 
+<div align="center">
+  <img width="1200" height="337" alt="banner" src="https://github.com/user-attachments/assets/747f4cbb-7257-4732-9a27-ee617660f4b3" />
+
+</div>
+
 # Hiya! 👋
 
 Hiya, I'm **NotAussie**! I'm a junior programmer and aviation enthusiast!
 
-
-### Weekly development breakdown 📋
+<table>
+<tr>
+<td valign="top" width="50%">
 
 <!--START_SECTION:waka-->
 
@@ -29,33 +23,21 @@ Other        16 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### Socials 📧
-Places you can contact me! (*Spam/advertisements will be ignored*)
+</td>
+<td valign="top" width="50%">
 
-```txt
-BlueSky   @notaussie.lol
-Discord   @notaussie.lol
-Email     notaussie@duck.com
-Guilded   /u/notaussie
-Reddit    /u/aussie_okay
-Revolt    notaussie#6373
-Twitter   @developeraussie
+<!-- steam-box start -->
+#### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
+```text
+💻 Wallpaper Engine                  🕘 0 hrs 17 mins
+🎮 Mecha BREAK                       🕘 13 hrs 7 mins
 ```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
 
-### Knowledge 📚
-Things I know how to use! ^-^
+[powered by steam-box](https://github.com/journey-ad/steam-box)
 
-```txt
-• Python 
-⨽ Discord.py
-⨽ FastAPI
-⨽ Flask
-⨽ Guilded.py
-⨽ Quart
-⨽ Revolt.py
-
-• JavaScript (& TypeScript)
-⨽ SvelteKit
-```
-
+</td>
+</tr>
+</table>
 
