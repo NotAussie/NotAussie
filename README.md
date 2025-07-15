@@ -1,16 +1,26 @@
 <div align="center">
   <img alt="banner" width="950px" src="https://github.com/user-attachments/assets/747f4cbb-7257-4732-9a27-ee617660f4b3" />
-  <h1>Test</h1>
+  <h1>~ Aussie ~</h1>
 </div>
 
-# Hiya! 👋
+## Introduction
+Hey there! Let me introduce myself, my name is _NotAussie_ and I go by _she/her_, _they/them_ or any _non-neopronoun_, I'm an autistic high school student from Adelaide. I love photography _(especially in relation to transport)_, I'm a frequent [Pokémon GO](https://pokemongo.com/) player and in my free time, I build open-source software!
 
-Hiya, I'm **NotAussie**! I'm a junior programmer and aviation enthusiast!
+## Want to get in contact?
+
+I'm avaible on the following platforms:
+> Tip! Click the platform name to view my profile!
+- [Bsky.social](https://bsky.app/profile/did:plc:lbqr5qcbc6jqcxlluekls6gf)
+- [Discord.gg](https://discord.com/users/1248159065633460331)
+- Revolt.chat _(`notaussie#6373`)_
+- [Reddit.com](https://www.reddit.com/user/AnAussieDeveloper/)
+- [NotAussie@duck.com](mailto:NotAussie@duck.com)
+
+## Cool things
 
 <table>
 <tr>
-<td valign="top" width="50%">
-
+<td align="center" width="50%">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -22,21 +32,9 @@ Other        16 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
 </td>
-<td valign="top" width="50%">
-
-<!-- steam-box start -->
-#### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
-```text
-💻 Wallpaper Engine                  🕘 0 hrs 17 mins
-🎮 Mecha BREAK                       🕘 13 hrs 7 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-
-[powered by steam-box](https://github.com/journey-ad/steam-box)
-
+<td align="center" width="50%">
+  <img src="https://holopin.me/notaussie" alt="My Holopin.io badges">
 </td>
 </tr>
 </table>
