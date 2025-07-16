@@ -1,13 +1,15 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
     # runs at 12 PM UTC (5:30 PM IST)
     - cron: "0 12 * * *"
+  push:
+    paths:
+      - .github/workflows/**
 
 jobs:
   update-readme:
@@ -20,4 +22,5 @@ jobs:
           BLOCKS: -#
           SHOW_MASKED_TIME: true
           COMMIT_MESSAGE: "chore: refresh dynamic content"
-          IGNORED_LANGUAGES: "JSON YAML INI Text TOML"
+          IGNORED_LANGUAGES: "JSON YAML INI Text TOML Docker"
+          AUTHOR_NAME: "Wakatime"
