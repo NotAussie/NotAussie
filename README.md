@@ -89,7 +89,6 @@ type: ["Headphones"]
 Total Time: 20 hrs 40 mins
 
 Python       16 hrs 49 mins  ####################-----   81.40 %
-YAML         2 hrs 27 mins   ###----------------------   11.89 %
 Markdown     28 mins         #------------------------   02.31 %
 Bash         19 mins         -------------------------   01.57 %
 Docker       12 mins         -------------------------   01.02 %
