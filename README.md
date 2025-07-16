@@ -19,11 +19,70 @@ Need to contact me? I'm available on the following platforms, just remember to b
 - [Reddit.com](https://www.reddit.com/user/AnAussieDeveloper/)
 - [NotAussie@duck.com](mailto:NotAussie@duck.com)
 
-## Cool things
+## My kit
+I use a variety of devices day-to-day, here's some of the devices I use reguarly.
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%">
+
+```javascript
+brand: "Asus"
+device: "CR12 Flip"    
+type: ["Laptop"]
+os: "ChromeOS"
+```
+
+_Temporary, to be replaced by a Acer Nitro V 16._
+
+</td>
+<td valign="top" width="50%">
+
+```javascript
+brand: "Lenovo"
+device: "LENOVO 81LK"
+type: ["Laptop", "Server"]
+os: "Fedora 42 (server edition)"
+```
+
+</td>
+<td valign="top" width="50%">
+  
+```javascript
+brand: "Apple"
+device: "iPhone 12"
+type: ["Phone"]
+os: "iOS 26.0 (Beta)"  
+```
+
+</td>
+<td valign="top" width="50%">
+
+```javascript
+brand: "Samsung"
+device: "Note 10+"
+type: ["Phone"]
+os: "One UI 4 (Android 12L)"
+```
+
+</td>
+<td valign="top" width="50%">
+
+```javascript
+brand: "JBL"
+device: "Tune 670NC"
+type: ["Headphones"]    
+```
+
+</td>
+</tr>
+</table>
+
+## Cool things ✨
+
+<table>
+<tr>
+<td valign="top" align="center" width="50%">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -38,7 +97,7 @@ Docker       12 mins         -------------------------   01.02 %
 
 <!--END_SECTION:waka-->
 </td>
-<td align="center" width="50%">
+<td valign="top" align="center" width="50%">
   <img src="https://holopin.me/notaussie" alt="My Holopin.io badges">
 </td>
 </tr>
