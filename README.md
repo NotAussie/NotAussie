@@ -27,13 +27,13 @@ Need to contact me? I'm available on the following platforms, just remember to b
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 25 mins
+Total Time: 20 hrs 40 mins
 
-Python       18 hrs          ####################-----   80.35 %
-YAML         2 hrs 48 mins   ###----------------------   12.52 %
-Text         26 mins         -------------------------   01.99 %
-Bash         19 mins         -------------------------   01.45 %
-Other        16 mins         -------------------------   01.25 %
+Python       16 hrs 49 mins  ####################-----   81.40 %
+YAML         2 hrs 27 mins   ###----------------------   11.89 %
+Markdown     28 mins         #------------------------   02.31 %
+Bash         19 mins         -------------------------   01.57 %
+Docker       12 mins         -------------------------   01.02 %
 ```
 
 <!--END_SECTION:waka-->
