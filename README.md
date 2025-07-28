@@ -86,11 +86,11 @@ type: ["Headphones"]
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 30 mins
+Total Time: 7 hrs 2 mins
 
-TypeScript   4 hrs 24 mins   #################--------   67.62 %
-Bash         19 mins         #------------------------   05.07 %
-TSConfig     9 mins          #------------------------   02.34 %
+TypeScript   4 hrs 24 mins   ################---------   62.51 %
+Svelte       29 mins         ##-----------------------   07.09 %
+Bash         19 mins         #------------------------   04.68 %
 ```
 
 <!--END_SECTION:waka-->
