@@ -86,13 +86,12 @@ type: ["Headphones"]
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 hrs 58 mins
+Total Time: 22 hrs 18 mins
 
-Python       7 hrs 54 mins   #########----------------   36.03 %
-Svelte       5 hrs 49 mins   #######------------------   26.51 %
-TypeScript   4 hrs 35 mins   #####--------------------   20.90 %
-Markdown     41 mins         #------------------------   03.13 %
-HTML         30 mins         #------------------------   02.33 %
+Python       10 hrs 52 mins  ############-------------   48.76 %
+TypeScript   4 hrs 10 mins   #####--------------------   18.71 %
+Svelte       4 hrs 5 mins    #####--------------------   18.37 %
+HTML         28 mins         #------------------------   02.15 %
 ```
 
 <!--END_SECTION:waka-->
