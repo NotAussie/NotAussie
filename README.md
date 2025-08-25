@@ -4,7 +4,7 @@
 </div>
 
 ## Introduction
-Hey there! Let me introduce myself, my name is _NotAussie_ and I go by _she/her_, _they/them_ or any _non-neopronoun_, I'm an autistic high school student from Adelaide. I love photography _(especially in relation to transport)_, I'm a frequent [Pokémon GO](https://pokemongo.com/) player and in my free time, I build open-source software!
+Hey there! Let me introduce myself, my name is _NotAussie_ and I go by _they/them_ or any _non-neopronoun_, I'm an autistic high school student from Adelaide. I love photography _(especially in relation to transport)_, I'm a frequent [Pokémon GO](https://pokemongo.com/) player and in my free time, I build open-source software!
 
 ## Contact me
 
