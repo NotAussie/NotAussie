@@ -86,11 +86,11 @@ type: ["Headphones"]
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 56 mins
+Total Time: 2 hrs 33 mins
 
-Python       5 hrs 46 mins   ##################-------   72.87 %
-Markdown     25 mins         #------------------------   05.45 %
-Bash         24 mins         #------------------------   05.05 %
+Python     1 hr 50 mins    ##################-------   71.92 %
+Bash       24 mins         ####---------------------   15.64 %
+Markdown   0 secs          -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->
