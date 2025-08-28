@@ -1,6 +1,8 @@
 <div align="center">
    <h1>~ Aussie ~</h1>
 
+   _She / They / Any non-neopronoun_
+
    Turning oxygen into carbon dioxide since _2010_!~ ✨
    
    <a href="https://blog.auzzie.space"><img alt="Blog" src="https://img.shields.io/badge/auzzie.space_-website?style=for-the-badge&logo=homepage&logoColor=%23a475f9&label=Website&labelColor=%2324292f&color=%23a475f9"></a>
@@ -13,11 +15,11 @@
 </div>
 
 ## Introduction
-Hey there! Let me introduce myself, my name is _NotAussie_ and I go by _they/them_ or any _non-neopronoun_, I'm an autistic high school student from Adelaide. I love photography _(especially in relation to transport)_, I'm a frequent [Pokémon GO](https://pokemongo.com/) player and in my free time, I build open-source software!
+Hey there! Let me introduce myself, my name is _NotAussie_ and I go by _she/her_, _they/them_, and any _non-neopronoun_, I'm an autistic high school student from Adelaide. I love photography _(especially in relation to transport)_, I'm a frequent [Pokémon GO](https://pokemongo.com/) player and in my free time, I build open-source software!
 
-## Cool things ✨
+## Cool things
 
-Cool little widgets that defiently boost my chances of getting hired!!!
+Cool little widgets that definitely boost my chances of getting hired!
 
 <img alt="Moe Counter" src="https://count.getloli.com/@notaussie_readme?theme=booru-lewd">
 
