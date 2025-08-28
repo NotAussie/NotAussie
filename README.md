@@ -1,84 +1,23 @@
 <div align="center">
-  <img alt="banner" width="950px" src="https://github.com/user-attachments/assets/747f4cbb-7257-4732-9a27-ee617660f4b3" />
-  <h1>~ Aussie ~</h1>
+   <h1>~ Aussie ~</h1>
+
+   Turning oxygen into carbon dioxide since _2010_!~ ✨
+   
+   <a href="https://blog.auzzie.space"><img alt="Blog" src="https://img.shields.io/badge/auzzie.space_-website?style=for-the-badge&logo=homepage&logoColor=%23a475f9&label=Website&labelColor=%2324292f&color=%23a475f9"></a>
+   <a href="https://bsky.app/profile/auzzie.space"><img alt="Bluesky" src="https://img.shields.io/badge/auzzie.space-test?style=for-the-badge&logo=bluesky&logoColor=%230285FF&label=bluesky&labelColor=%2324292f&color=%230285FF"></a>
+   <a href="mailto:notaussie@duck.com"><img alt="Email" src="https://img.shields.io/badge/notaussie%40duck.com-test?style=for-the-badge&logo=duckduckgo&logoColor=%23DE5833&label=EMAIL&labelColor=%2324292f&color=%23DE5833"></a>
+   <img alt="Revolt.chat" src="https://img.shields.io/badge/NotAussie%236373-NotAussie%236373?style=for-the-badge&logo=revoltdotchat&logoColor=%23FF4655&label=Revolt&labelColor=%2324292f&color=%23FF4655">
+   <a href="https://www.reddit.com/user/AnAussieDeveloper"><img alt="Reddit" src="https://img.shields.io/badge/AnAussieDeveloper-test?style=for-the-badge&logo=reddit&logoColor=%23DE5833&label=reddit&labelColor=%2324292f&color=%23DE5833"></a>
+   <a href="https://discord.com/users/1248159065633460331"><img alt="Discord" src="https://img.shields.io/badge/auzzie.space-test?style=for-the-badge&logo=discord&logoColor=%235865F2&label=discord&labelColor=%2324292f&color=%235865F2"></a>
+   
 </div>
 
 ## Introduction
 Hey there! Let me introduce myself, my name is _NotAussie_ and I go by _they/them_ or any _non-neopronoun_, I'm an autistic high school student from Adelaide. I love photography _(especially in relation to transport)_, I'm a frequent [Pokémon GO](https://pokemongo.com/) player and in my free time, I build open-source software!
 
-## Contact me
-
-Need to contact me? I'm available on the following platforms, just remember to be nice!
-
->[!CAUTION]
-> I _am not_ looking for _job offers_, if you attempt to recruit me I will call you a donkey.
-
-- [Bsky.social](https://bsky.app/profile/did:plc:lbqr5qcbc6jqcxlluekls6gf)
-- [Discord.gg](https://discord.com/users/1248159065633460331)
-- Revolt.chat _(`notaussie#6373`)_
-- [Reddit.com](https://www.reddit.com/user/AnAussieDeveloper/)
-- [NotAussie@duck.com](mailto:NotAussie@duck.com)
-
-## My kit
-I use a variety of devices day-to-day, here's some of the devices I use reguarly.
-
-<table>
-<tr>
-<td width="50%">
-
-```javascript
-brand: "Asus"
-device: "CR12 Flip"    
-type: ["Laptop"]
-os: "ChromeOS"
-```
-
-_Temporary, to be replaced by a Acer Nitro V 16._
-
-</td>
-<td valign="top" width="50%">
-
-```javascript
-brand: "Lenovo"
-device: "LENOVO 81LK"
-type: ["Laptop", "Server"]
-os: "Fedora 42 (server edition)"
-```
-
-</td>
-<td valign="top" width="50%">
-  
-```javascript
-brand: "Apple"
-device: "iPhone 12"
-type: ["Phone"]
-os: "iOS 26.0 (Beta)"  
-```
-
-</td>
-<td valign="top" width="50%">
-
-```javascript
-brand: "Samsung"
-device: "Note 10+"
-type: ["Phone"]
-os: "One UI 4 (Android 12L)"
-```
-
-</td>
-<td valign="top" width="50%">
-
-```javascript
-brand: "JBL"
-device: "Tune 670NC"
-type: ["Headphones"]    
-```
-
-</td>
-</tr>
-</table>
-
 ## Cool things ✨
+
+Cool little widgets that defiently boost my chances of getting hired!!!
 
 <table>
 <tr>
@@ -94,6 +33,9 @@ Markdown   0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
+</td>
+<td valign="top" align="center" width="50%">
+  <img alt="Moe Counter" src="https://count.getloli.com/@notaussie_readme">
 </td>
 <td valign="top" align="center" width="50%">
   <img src="https://holopin.me/notaussie" alt="My Holopin.io badges">
