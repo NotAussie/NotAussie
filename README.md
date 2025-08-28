@@ -19,6 +19,8 @@ Hey there! Let me introduce myself, my name is _NotAussie_ and I go by _they/the
 
 Cool little widgets that defiently boost my chances of getting hired!!!
 
+<img alt="Moe Counter" src="https://count.getloli.com/@notaussie_readme?theme=booru-lewd">
+
 <table>
 <tr>
 <td valign="top" align="center" width="50%">
@@ -35,10 +37,7 @@ Markdown   0 secs          -------------------------   00.08 %
 <!--END_SECTION:waka-->
 </td>
 <td valign="top" align="center" width="50%">
-  <img alt="Moe Counter" src="https://count.getloli.com/@notaussie_readme">
-</td>
-<td valign="top" align="center" width="50%">
-  <img src="https://holopin.me/notaussie" alt="My Holopin.io badges">
+<img src="https://holopin.me/notaussie" alt="My Holopin.io badges">
 </td>
 </tr>
 </table>
