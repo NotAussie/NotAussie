@@ -29,11 +29,9 @@ Cool little widgets that definitely boost my chances of getting hired!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 3 mins
+Total Time: 0 secs
 
-Python     1 hr 23 mins    #################--------   67.31 %
-Bash       24 mins         #####--------------------   19.44 %
-Markdown   0 secs          -------------------------   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
