@@ -5,7 +5,7 @@
 
    Turning oxygen into carbon dioxide since _2010_!~ ✨
    
-   <a href="https://blog.auzzie.space"><img alt="Blog" src="https://img.shields.io/badge/auzzie.space_-website?style=for-the-badge&logo=homepage&logoColor=%23a475f9&label=Website&labelColor=%2324292f&color=%23a475f9"></a>
+   <a href="https://auzzie.space"><img alt="Blog" src="https://img.shields.io/badge/auzzie.space_-website?style=for-the-badge&logo=homepage&logoColor=%23a475f9&label=Website&labelColor=%2324292f&color=%23a475f9"></a>
    <a href="https://bsky.app/profile/auzzie.space"><img alt="Bluesky" src="https://img.shields.io/badge/auzzie.space-test?style=for-the-badge&logo=bluesky&logoColor=%230285FF&label=bluesky&labelColor=%2324292f&color=%230285FF"></a>
    <a href="https://www.reddit.com/user/AnAussieDeveloper"><img alt="Reddit" src="https://img.shields.io/badge/AnAussieDeveloper-test?style=for-the-badge&logo=reddit&logoColor=%23DE5833&label=reddit&labelColor=%2324292f&color=%23DE5833"></a>
    <a href="https://discord.com/users/1248159065633460331"><img alt="Discord" src="https://img.shields.io/badge/auzzie.space-test?style=for-the-badge&logo=discord&logoColor=%235865F2&label=discord&labelColor=%2324292f&color=%235865F2"></a>
