@@ -29,11 +29,12 @@ Cool little widgets that definitely boost my chances of getting hired!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 55 mins
+Total Time: 10 hrs 58 mins
 
-Svelte       2 hrs 3 mins    #############------------   52.32 %
-Python       23 mins         ##-----------------------   09.77 %
-Git Config   13 mins         #------------------------   05.93 %
+Svelte       7 hrs 28 mins   #################--------   68.02 %
+Python       56 mins         ##-----------------------   08.50 %
+TypeScript   30 mins         #------------------------   04.70 %
+Git Config   13 mins         #------------------------   02.12 %
 ```
 
 <!--END_SECTION:waka-->
