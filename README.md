@@ -29,11 +29,9 @@ Cool little widgets that definitely boost my chances of getting hired!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 17 mins
+Total Time: 0 secs
 
-TypeScript   1 hr 9 mins     #############------------   50.88 %
-Svelte       54 mins         ##########---------------   39.41 %
-Bash         1 min           -------------------------   01.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
